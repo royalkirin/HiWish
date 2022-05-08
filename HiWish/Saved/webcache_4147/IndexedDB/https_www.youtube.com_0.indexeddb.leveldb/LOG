@@ -1,5 +1,0 @@
-2022/04/25-18:02:51.864 6f28 Reusing MANIFEST H:/GitHub/HiWish/HiWish/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/25-18:05:37.137 73b0 Level-0 table #5: started
-2022/04/25-18:05:37.146 73b0 Level-0 table #5: 1154 bytes OK
-2022/04/25-18:05:37.148 73b0 Delete type=0 #3
-2022/04/25-18:05:37.149 73b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
